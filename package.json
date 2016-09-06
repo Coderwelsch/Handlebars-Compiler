@@ -1,0 +1,15 @@
+{
+  "name": "handlebars-compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handlebars-v2.0.0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "extend": "^3.0.0"
+  }
+}
